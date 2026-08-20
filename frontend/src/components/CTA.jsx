@@ -39,6 +39,7 @@ export default function CTA() {
               <input
                 id="cta-email"
                 className="cta__input"
+                style={{ color: 'var(--text)' }}
                 type="email"
                 required
                 placeholder="Enter your work email"
