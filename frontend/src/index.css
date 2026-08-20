@@ -2,24 +2,24 @@
 :root {
   --bg: #05060a;
   --bg-soft: #0a0c14;
-  --surface: var(--glass-04);
+  --surface: rgba(255, 255, 255, 0.04);
 
-  --glass-02: var(--glass-02);
-  --glass-03: var(--glass-03);
-  --glass-04: var(--glass-04);
-  --glass-05: var(--glass-05);
-  --glass-06: var(--glass-06);
-  --glass-08: var(--glass-08);
+  --glass-02: rgba(255, 255, 255, 0.015);
+  --glass-03: rgba(255, 255, 255, 0.03);
+  --glass-04: rgba(255, 255, 255, 0.04);
+  --glass-05: rgba(255, 255, 255, 0.05);
+  --glass-06: rgba(255, 255, 255, 0.06);
+  --glass-08: rgba(255, 255, 255, 0.08);
 
-  --nav-bg: var(--nav-bg);
-  --nav-mobile-bg: var(--nav-mobile-bg);
-  --input-bg: var(--input-bg);
-  --grid-line: var(--glass-05);
+  --nav-bg: rgba(5, 6, 10, 0.72);
+  --nav-mobile-bg: rgba(5, 6, 10, 0.96);
+  --input-bg: rgba(5, 6, 10, 0.6);
+  --grid-line: rgba(255, 255, 255, 0.05);
 
   --bg-orb-a: rgba(124, 108, 255, 0.09);
   --bg-orb-b: rgba(34, 211, 238, 0.05);
 
-  --border: var(--glass-08);
+  --border: rgba(255, 255, 255, 0.08);
   --border-strong: rgba(255, 255, 255, 0.16);
   --text: #f4f6fb;
   --text-dim: #a6adc2;
